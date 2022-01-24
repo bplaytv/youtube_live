@@ -1,41 +1,25 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Al Plateau | Arab | https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/8786976/16x9/991/557/b5725ccd88967cbdbc70aa882ad1c3b5/fk/cna-default-image.png |
+Al Plateau | AR | MOVIES | https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/8786976/16x9/991/557/b5725ccd88967cbdbc70aa882ad1c3b5/fk/cna-default-image.png |
 https://www.youtube.com/c/AlPlateau/live
 
-الشيخ عبد الباسط عبد الصمد | Islam | https://upload.wikimedia.org/wikipedia/zh/thumb/d/d8/CTI_logo.svg/1200px-CTI_logo.svg.png |
+الشيخ عبد الباسط عبد الصمد | ISLAMIC | https://upload.wikimedia.org/wikipedia/zh/thumb/d/d8/CTI_logo.svg/1200px-CTI_logo.svg.png |
 https://www.youtube.com/user/ABD0LBASIT60HIZB/live
 
-روائع فضيلة الشيخ عبد الباسط عبد الصمد | News | https://yt3.ggpht.com/ytc/AKedOLRdElh7G6aI_HNVtwZaidqLckwl20fFa0rv3koDDw=s48-c-k-c0x00ffffff-no-rj |
+روائع فضيلة الشيخ عبد الباسط عبد الصمد | ISLAMIC | https://yt3.ggpht.com/ytc/AKedOLRdElh7G6aI_HNVtwZaidqLckwl20fFa0rv3koDDw=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCtMXCP6VpGslunPH_n9d5JQ/live
 
 Nickelodeon France| News | https://yt3.ggpht.com/ytc/AKedOLRir9C4K4BtZOlOjKHAqboFL_RlTYOfqOqhJ7brKw=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/NickelodeonFrance/live
 
-Taiwan CTV 24 Hours News 中视新聞 24小時 | News | https://yt3.ggpht.com/ytc/AKedOLRTOF4kYphsozlFL9YlRloNh8eJv6c_aCnCVe65vw=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCmH4q-YjeazayYCVHHkGAMA/live
-
-EBC 24 Hours News 东森新闻 24小时 | News | https://yt3.ggpht.com/ytc/AKedOLTJF3vf6WMkZD_5lr5FQzOBqZH_GqObSZ1PBI7TnA=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCR3asjvr_WAaxwJYEDV_Bfw/live
-
-KBS Korea | News | https://yt3.ggpht.com/ytc/AKedOLQ_34jNUOPlbqCQ4A5cr_mvjLfg6GEaN_mj0IAjYCc=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig/live
-
-CCTV4  CCTV4 中文国际 | State Media | https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/1200px-CCTV-4_Logo.svg.png |
-https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
-
-Suria FM | Radio | https://yt3.ggpht.com/OqDJ0lDbg4LX6ELWaKPb63Phhif1ApnwEJJz5YgKpQr2DvBpTsgNhcBz2OvYb-DMjrnUS_5c=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCjDM2C3nXPGD_cGDyrrBT6w/live
-
-ERA FM | Radio | https://yt3.ggpht.com/2Tot1KFtP4ktbPKqTQlGQplWnSiRAJ49bLDWfCHzyoeqmcqdH03ovOAd92oSBhqqMWILykA3=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCNq5APn4lVabRaYCnTxiNIg/live
-
-HOT FM | Radio | https://yt3.ggpht.com/ur2wEWx9YNwq-b08wlaLKgwlrgS8YsgL1uH27OGKuDlNy7pznXskGYvhzVPCpQqzZXsknSp9FrQ=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCFV_yPFxPbbmrYJ9J6zJglA/live
-
-Fly FM | Radio | https://yt3.ggpht.com/o9FW_-iEoGbVu99OwUEwJRkovg-UN-Mmdd9SbOXS3fD7qkK9EsiotfJ9GTLefxxXtwHv2354Qw=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCEpTWSFqICafylnJ0tdQpeA/live
-
-One FM | Radio | https://yt3.ggpht.com/ytc/AKedOLQxBQa2s1_AtsAJ9USOZD7pRj7nRL7pzjR8VOMk=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCXKqVoc7khb8cg3ugfrih4g/live
+IS | IBN OTHAIMEEN TV | ISLAMIC | https://pbs.twimg.com/profile_images/747757851272151040/65xKaIUp_400x400.jpg |
+https://www.youtube.com/c/ibnothaimeentv/live
+TN | WATANIA HD | TUNISIA | http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png |
+https://www.youtube.com/c/WataniaReplay/live
+DZ | AL MAGHARIVIA TV | AR | ALGEIA | https://almagharibia.tv/images/logo.jpg |
+https://www.youtube.com/c/AlmagharibiaTv/ive
+JO | ROYA TV  | AR | JORDAN | https://roya.tv/img/royatv/royaTvLogo.png |
+ https://www.youtube.com/c/royatv/live
+RAJEEN TV | ISLAMIC | https://rajeen.tv/logo.png |
+https://www.youtube.com/channel/UCGQzgBuTo2X23erzfq4ODQQ/live
