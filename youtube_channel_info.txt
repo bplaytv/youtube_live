@@ -1,7 +1,7 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Al Plateau | AR | MOVIES | https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/8786976/16x9/991/557/b5725ccd88967cbdbc70aa882ad1c3b5/fk/cna-default-image.png |
+Al Plateau | MOVIES | https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/8786976/16x9/991/557/b5725ccd88967cbdbc70aa882ad1c3b5/fk/cna-default-image.png |
 https://www.youtube.com/c/AlPlateau/live
 
 الشيخ عبد الباسط عبد الصمد | ISLAMIC | https://upload.wikimedia.org/wikipedia/zh/thumb/d/d8/CTI_logo.svg/1200px-CTI_logo.svg.png |
@@ -13,13 +13,13 @@ https://www.youtube.com/channel/UCtMXCP6VpGslunPH_n9d5JQ/live
 Nickelodeon France| News | https://yt3.ggpht.com/ytc/AKedOLRir9C4K4BtZOlOjKHAqboFL_RlTYOfqOqhJ7brKw=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/NickelodeonFrance/live
 
-IS | IBN OTHAIMEEN TV | ISLAMIC | https://pbs.twimg.com/profile_images/747757851272151040/65xKaIUp_400x400.jpg |
+IBN OTHAIMEEN TV | ISLAMIC | https://pbs.twimg.com/profile_images/747757851272151040/65xKaIUp_400x400.jpg | |
 https://www.youtube.com/c/ibnothaimeentv/live
-TN | WATANIA HD | TUNISIA | http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png |
+WATANIA HD | TUNISIA | http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png |
 https://www.youtube.com/c/WataniaReplay/live
-DZ | AL MAGHARIVIA TV | AR | ALGEIA | https://almagharibia.tv/images/logo.jpg |
+AL MAGHARIVIA TV | ALGEIA | https://almagharibia.tv/images/logo.jpg |
 https://www.youtube.com/c/AlmagharibiaTv/ive
-JO | ROYA TV  | AR | JORDAN | https://roya.tv/img/royatv/royaTvLogo.png |
+ROYA TV  | JORDAN | https://roya.tv/img/royatv/royaTvLogo.png |
  https://www.youtube.com/c/royatv/live
 RAJEEN TV | ISLAMIC | https://rajeen.tv/logo.png |
 https://www.youtube.com/channel/UCGQzgBuTo2X23erzfq4ODQQ/live
