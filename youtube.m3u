@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tunisia" tvg-logo="http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png" tvg-id="", WATANIA HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658413094/ei/xgvZYqKYIM2H_9EPtZ6Y4Ac/ip/20.98.222.19/id/k0DW00nIojI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhsGzUE1IBLFbggaG8DjKPsPz2gc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgJQtIju6uddp3O966BtTd9dhvDh3M6Hbh6h3DUicoPNoCIFNDZ0Im_vfjHOB_OfOtYfYDzcn2e-zO8RkJdCd7drcR/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658416417/ei/wBjZYvzKOdGF_9EPu6WwuAQ/ip/20.65.108.13/id/k0DW00nIojI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khkh4T0Th8NQ1S-ybzgFEyYYE22E/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgaKuZdBUWamz6ciblbUNMc1DN6947jaMWJKP_aPlRlyMCIQDAEHhm4Oiri071d4GbKnk7Pm-4gdIG7z5KlMu8E-EEeQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Algeia" tvg-logo="https://almagharibia.tv/images/logo.jpg" tvg-id="", AL MAGHARIVIA TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -36,4 +36,4 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://rajeen.tv/logo.png" tvg-id="", RAJEEN TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658416418/ei/whjZYq64G5HXgwPntKeQCA/ip/20.65.108.13/id/pM_kgDDIDpw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhorFKh2eQ6nO20lp_zHlam3g5xI/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANva8TMoxEcBw2748aIKAOxqXPKn-nlobUG0FEj5vpohAiEA0GZoPr_VRv5JkW0RqFv33_hg8nF5XCX_WCnuBEfAdBE%3D/file/index.m3u8
