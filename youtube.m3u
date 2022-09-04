@@ -15,7 +15,7 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d8/CTI_logo.svg/1200px-CTI_logo.svg.png" tvg-id="", الشيخ عبد الباسط عبد الصمد
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1662354853/ei/RTEVY9qdIMuWkwaszLboCA/ip/20.245.2.70/id/d1BmZ5L0fxs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgEPVjS0U3-tQXkbG6JkszdcijFRluT3pzJUtB9cz7e9kCIQCHIE0xI7eoWOUO5OEVy1oaRGW_Z-8pFw-7gd9P4Fluyg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRdElh7G6aI_HNVtwZaidqLckwl20fFa0rv3koDDw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", روائع فضيلة الشيخ عبد الباسط عبد الصمد
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tunisia" tvg-logo="http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png" tvg-id="", WATANIA HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1662351229/ei/HSMVY-S7Ao-6ir4PiZGu0AY/ip/23.102.172.29/id/8PAWlbCppxI.17/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgTQnTRJKipgDEEkqmjRR5mxQ3LmQrs3uAestgegmKDkYCIBwirNyMMGEzSEQovSjlWR6Qx1sGTVSDeU46MCaqH2Wp/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1662354857/ei/RzEVY8S9Ns27kwaS2o-IDw/ip/20.245.2.70/id/8PAWlbCppxI.17/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAILwg4P9qiQtdbLkNAYir52dcPpPqEq1KSbmxvnhql6jAiEA-XaFqwf_euySZSwPLy2Smx2lI6Cn9RTR27pHOkzxsSk%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Algeia" tvg-logo="https://almagharibia.tv/images/logo.jpg" tvg-id="", AL MAGHARIVIA TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -36,4 +36,4 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://rajeen.tv/logo.png" tvg-id="", RAJEEN TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1662351230/ei/HiMVY5O7MZqO2_gP68KG0AU/ip/23.102.172.29/id/w5TrB0HGixA.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgfNG0og6JCB0sOZCSe3HjF7x9tGn5TGljEa7y3q5FR_MCIQC9OmwnhUXL1aHn8kOi1NSQbYUTvYhNICu5Fo0DdHeSjA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1662354859/ei/SzEVY5nNEYSHkwbE2Y_oBA/ip/20.245.2.70/id/w5TrB0HGixA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAK2-6Ya-E_V_oq2jLUy-dx5q-Jc4Oliewx9-uaukbEgWAiEA1zE8aQldb0mOSq_xQsn0YKSFnV7nwZ8xIzXRkkp0tUw%3D/file/index.m3u8
