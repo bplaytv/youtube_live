@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Jordan" tvg-logo="https://roya.tv/img/royatv/royaTvLogo.png" tvg-id="", ROYA TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669248950/ei/VmN-Y-bHDJWukgaR947wCQ/ip/20.66.67.71/id/jWFFpS2o3lM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgcC58YA79C3yPuvUDT_8beox1M4vQ6hKF8vHbRH_qTc4CIQC8NOysnixrMY147wi_bSwmBXZJPJakKogyc1uU-gvGnA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669252230/ei/JnB-Y96vFJjBhwb6tYTQAw/ip/52.188.58.138/id/jWFFpS2o3lM.1/source/yt_live_broadcast/requiressl/yes/tx/24280138/txs/24280135%2C24280136%2C24280137%2C24280138%2C24280139/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMyqXTRRvr0C6nNc4ygoPM73S3jN40jRXmThOgwJ6BYkAiAtvrHKSN_VdThwsYSiJDYu7gbeMZoOnV7wqyNPMvy1VA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://rajeen.tv/logo.png" tvg-id="", RAJEEN TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
