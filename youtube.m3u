@@ -15,7 +15,7 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d8/CTI_logo.svg/1200px-CTI_logo.svg.png" tvg-id="", الشيخ عبد الباسط عبد الصمد
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690809046/ei/dV7HZO--Oourkgbn5oTwDA/ip/52.160.111.24/id/q_hEEdVUTYg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2SqxZqIUtygDMl1-gibjpqkTovV8OjKfOLBYdFWQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000024/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKFhT4Q1OvqbOqQq_qPZ-2n3qVTOAn53Vau8m4a-RmTwCIAyJfCaQ9_3oUJSrqo_izjee1Qy3u9PKL4BQWatfIE8O/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690812895/ei/fm3HZNS3O_2i_tcP59eCmA0/ip/40.86.13.177/id/q_hEEdVUTYg.1/source/yt_live_broadcast/requiressl/yes/tx/45170058/txs/45170058%2C45170059/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq92-wv3-MJZAfw4pTtPjcC_QJYPXMk0srTDpIQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363393%2C51000012/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgPEs_zbqDKDfwKhNqdPqG3hZUI3SJJ_3dvZX_QwTn6O8CIQDSGDGu-BshzJljL7ZV4UZROhQJNaoYfiyC54V0KNLGrQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRdElh7G6aI_HNVtwZaidqLckwl20fFa0rv3koDDw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", روائع فضيلة الشيخ عبد الباسط عبد الصمد
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://pbs.twimg.com/profile_images/747757851272151040/65xKaIUp_400x400.jpg" tvg-id="", IBN OTHAIMEEN TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690812896/ei/gG3HZMujGOvzir4PoI2YiAY/ip/40.86.13.177/id/-6JS4Yyvc0Y.1/source/yt_live_broadcast/requiressl/yes/tx/45170058/txs/45170058%2C45170059/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq28Py_wlYhriYzW8FVPmFGcXjEBSCg1JwB_vKg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363393%2C51000012/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgTBOaat_STzo5DadDFz1UqIZViNs11jUOfz9hx8INjQ8CIQD8QO_DTEhACtmmzwtxkKIIdIXImEMKqZm7t6d7v-oMng%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tunisia" tvg-logo="http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png" tvg-id="", WATANIA HD
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
