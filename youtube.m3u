@@ -15,10 +15,10 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d8/CTI_logo.svg/1200px-CTI_logo.svg.png" tvg-id="", الشيخ عبد الباسط عبد الصمد
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716883000/ei/2DlVZqK3LdTdsfIPveum2Ag/ip/20.172.7.66/id/AoXeQ8fXNok.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0N5s8yZ95ErcX-VYf6fwC7Bz75qUuvT_QsW1HcOgxLxxdLyKbeV6zqV904/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAP-VZLmzzFC7jGVkML8lU08Up-x6ywJ7GoLUgEiw79iGAiBdjoQBr6CpsY1A8btiBRBMqorTKuF8eYBh6HcdyI944A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRdElh7G6aI_HNVtwZaidqLckwl20fFa0rv3koDDw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", روائع فضيلة الشيخ عبد الباسط عبد الصمد
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716883001/ei/2TlVZueRJ6vWsfIP69iWgAc/ip/20.172.7.66/id/9bwWyraQuOk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1Baqo3x62DCmyOZhUJgs8VuQgKqw9Lcsux8N_Ys_W97HqeZWRLzfNY_ovY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgBplWf1NonFuayNzFR4OHyk59mH9HUo3N6K5iao-RdFACIFCAAS1K2oPlLOsGfMU4UFGezHGw3tCx884fk7q4utJj/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRir9C4K4BtZOlOjKHAqboFL_RlTYOfqOqhJ7brKw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Nickelodeon France
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tunisia" tvg-logo="http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png" tvg-id="", WATANIA HD
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716883003/ei/2zlVZrfvH6zdsfIPuLGeqAI/ip/20.172.7.66/id/9xWHg6Gmk9Y.13/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4TFZb1b3ikk5uJoH-KIeqZL2l6aJiNEY5wHYVibFkXlkzJRqsZ_EIaF5Es/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgJep01Ishc-tB5RFdv3J4k1PU1im1ba1VEbehwQmgL18CIAkeW2iJWw-J0By6HPyb6skwxn_jzJ-64WnMKMJFeB1c/file/index.m3u8
 
 #EXTINF:-1 group-title="Algeia" tvg-logo="https://almagharibia.tv/images/logo.jpg" tvg-id="", AL MAGHARIVIA TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
